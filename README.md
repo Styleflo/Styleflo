@@ -2,8 +2,7 @@
 
 ## À propos de moi
 
-Je m'appelle **Florian**, j'ai 23 ans et je suis étudiant en informatique. Actuellement étudiant à Télécom Nancy ([(https://telecomnancy.univ-lorraine.fr)](https://telecomnancy.univ-lorraine.fr)). 
-Au cours de mon cursus scolaire, j'ai étudié les mathématiques, le développement d'application, le développement web et la science des données. J'ai également appris la gestion de projet, la communication et le travail en équipe.
+Je m'appelle **Florian**, je suis étudiant de 23 ans à Télécom Nancy ([(Télécom Nancy)](https://telecomnancy.univ-lorraine.fr)), je me spécialise en informatique. Mes compétences couvrent aussi bien le développement (web et applicatif) que la science des données, l'intelligence artificielle, la cybersécurité et les mathématiques appliquées. Au-delà de l'aspect technique, j'ai développé une solide capacité à gérer des projets et à collaborer efficacement en équipe.
 
 ## Comment me contacte
 
